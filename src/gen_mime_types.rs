@@ -13,7 +13,7 @@ use std::collections::BTreeMap;
 
 use mime_types::MIME_TYPES;
 
-const GENERATED_FILE: &'static str = "src/mime_types_generated.rs";
+const GENERATED_FILE: &'static str = "src/mime_types_generated1.rs";
 
 mod mime_types;
 
