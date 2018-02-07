@@ -13,7 +13,7 @@ use unicase::UniCase;
 use std::ffi::OsStr;
 use std::path::Path;
 
-include!("mime_types_generated.rs");
+include!("mime_types_generated1.rs");
 
 struct TopLevelExts { 
     start: usize,
